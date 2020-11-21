@@ -1,6 +1,10 @@
 PrintScreen -
+
+-darkmode
 <img src="https://i.ibb.co/z6G92yr/thumb1.png"/>
 
+-lightmode 
+<img src="https://i.ibb.co/cQCQ8Sx/thumb2.png"/>
 
 
 # Getting Started with Create React App
